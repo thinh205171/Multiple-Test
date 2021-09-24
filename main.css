@@ -1,0 +1,13 @@
+#point {
+    position: fixed;
+    font-size: 40px;
+    top: 10px;
+    right: 20px;
+    border: 2px solid;
+    padding: 15px;
+  }
+
+img
+{
+  display: block;
+}
